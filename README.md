@@ -3,6 +3,7 @@
 This is the first file in Repository
 
 ##Ipsum Below
+My Notedown's from GIT course(Udemy):
 1) pwd - current directory
 2) git confg --global user.name "  "
 3) git config --global user.email "  "
